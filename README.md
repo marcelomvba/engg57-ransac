@@ -1,4 +1,4 @@
-# engg57-ransac
+# ENGG57-ransac
 Aplicação embarcada do algoritmo RANSAC em linguagem C e Verilog para Altera Nios II e Cyclone IV E.
 
 ## Índice
